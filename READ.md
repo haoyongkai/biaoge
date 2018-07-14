@@ -8,4 +8,4 @@
 
 玩转nginx
 
-玩转mysql
+wanzhuan mysql
